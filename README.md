@@ -1,5 +1,13 @@
-## Hi there 👋
+# Hi, I'm Yashaswini
 
+🎓 Master’s student in Applied Data Science @ SJSU  
+💻 2 years of Software Engineering experience @ TCS  
+🔬 Data Science Intern @ Tequed Labs  
+
+## 🔗 Find me here
+- [Portfolio](https://yashaswinichowdarymadineni.github.io)  
+- [LinkedIn](https://www.linkedin.com/in/yashaswinichowdarymadineni/)  
+- 📧 yashaswini.madineni@sjsu.edu  
 <!--
 **yashaswinichowdarymadineni/yashaswinichowdarymadineni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
